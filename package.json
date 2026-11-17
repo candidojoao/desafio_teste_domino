@@ -1,0 +1,14 @@
+{
+  "name": "desafio_teste_domino",
+  "version": "1.0.0",
+  "description": "Desafio de testes de software em JavaScript",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "coverage": "node --test --experimental-test-coverage"
+  },
+  "engines": { "node": ">=20" },
+  "author": "João Paulo Candido da Costa",
+  "license": "MIT"
+}
